@@ -38,16 +38,33 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 ## CIRCUIT DIAGRAMS
 
 ## Half wave rectifier with filter:
+<img width="1096" height="569" alt="image" src="https://github.com/user-attachments/assets/0c7964b0-ed80-4e2f-a4af-dca8822d710c" />
+
+## Half wave rectifier without filter:
+<img width="1216" height="552" alt="image" src="https://github.com/user-attachments/assets/fabdf2b6-fc5f-4d30-8248-fc9c769edacd" />
 
 ## Bridge rectifier with filter:
+<img width="1287" height="625" alt="Screenshot 2025-10-26 195902" src="https://github.com/user-attachments/assets/704f7dc0-be1b-48bf-8957-93b0be11e9ec" />
+
+## Bridge rectifier without filter:
+<img width="1378" height="602" alt="Screenshot 2025-10-26 195946" src="https://github.com/user-attachments/assets/93738796-8cc1-4c2c-baf9-2a706e899708" />
 
 ## TABULAR COLUMN
-Rectifier without filter
+Half wave rectifier
+![WhatsApp Image 2025-10-26 at 20 01 21_55baad6b](https://github.com/user-attachments/assets/bfdbabc0-b92c-40c4-a405-3e3b63367d04)
+![WhatsApp Image 2025-10-26 at 20 01 21_bc4e4179](https://github.com/user-attachments/assets/024e8c48-6f2e-41d0-944b-0db0a6a9c044)
+
 ## TABULAR COLUMN
-Rectifier with filter
+Bridge rectifier:
+![WhatsApp Image 2025-10-26 at 20 01 21_8daea757](https://github.com/user-attachments/assets/f90edc8b-0167-43ce-a371-af9c2803d89e)
+![WhatsApp Image 2025-10-26 at 20 01 21_fd3fefb9](https://github.com/user-attachments/assets/20d6ece3-a41a-411f-b06f-e23f8b8d2207)
 
 ## WAVEFORM:
+<img width="1381" height="891" alt="Screenshot 2025-10-26 195756" src="https://github.com/user-attachments/assets/1e4b6d49-a233-4bc1-b34d-0104a6136897" />
+<img width="1386" height="864" alt="Screenshot 2025-10-26 195710" src="https://github.com/user-attachments/assets/3c132391-ac94-4beb-a47c-0725a43f8405" />
 
+<img width="1378" height="885" alt="Screenshot 2025-10-26 195959" src="https://github.com/user-attachments/assets/8915b2bd-f477-4bd1-887e-6cc8ab995ead" />
+<img width="1371" height="888" alt="Screenshot 2025-10-26 195934" src="https://github.com/user-attachments/assets/9576648f-e1b2-44be-a0f0-229af433e3f9" />
 
 ## RESULT:
 
