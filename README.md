@@ -63,6 +63,7 @@ Bridge rectifier:
 ### Half wave rectifier
 <img width="1381" height="891" alt="Screenshot 2025-10-26 195756" src="https://github.com/user-attachments/assets/1e4b6d49-a233-4bc1-b34d-0104a6136897" />
 <img width="1386" height="864" alt="Screenshot 2025-10-26 195710" src="https://github.com/user-attachments/assets/3c132391-ac94-4beb-a47c-0725a43f8405" />
+
 ### Bridge rectifier:
 <img width="1378" height="885" alt="Screenshot 2025-10-26 195959" src="https://github.com/user-attachments/assets/8915b2bd-f477-4bd1-887e-6cc8ab995ead" />
 <img width="1371" height="888" alt="Screenshot 2025-10-26 195934" src="https://github.com/user-attachments/assets/9576648f-e1b2-44be-a0f0-229af433e3f9" />
