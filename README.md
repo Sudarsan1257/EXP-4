@@ -36,6 +36,7 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 ## HALF WAVE RECTIFIER:
+![WhatsApp Image 2025-10-28 at 14 04 28_7720894e](https://github.com/user-attachments/assets/3ab826ff-29a1-475e-8dad-2248f2fdfce7)
 
 ## FULL WAVE RECTIFIER:
 ![WhatsApp Image 2025-10-28 at 14 04 48_70abd20d](https://github.com/user-attachments/assets/186172e7-0ab1-41e6-97ee-0eb1a122188b)
